@@ -1,4 +1,4 @@
 resource "aws_ebs_volume" "v" {
-  size = 80
+  size = 100
   encrypted = false
 }
