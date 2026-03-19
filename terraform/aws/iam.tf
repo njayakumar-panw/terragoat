@@ -14,6 +14,9 @@ resource "aws_iam_user" "user" {
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
     yor_trace            = "9b45b298-c1ea-426a-9644-610780021eaa"
+    }, {
+    Nikhil_test_azure10 = "PR_JK"
+    nikhil              = "true"
   })
 
 }
